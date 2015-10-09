@@ -4,8 +4,8 @@ import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/** An implementation of the AddressBook interface that uses
- *  an array list to store the data.
+
+ *  an array list to store the data. edit
  */
 public class ArrayListAddressBook implements AddressBook {
     private ArrayList<Item> items = new ArrayList<Item>();
